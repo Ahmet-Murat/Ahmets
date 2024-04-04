@@ -73,7 +73,9 @@ html, body {
   background-color: #196fc2;
   border-color: #196fc2;
 }
-
+h2{
+  color: red !important;
+}
 /* 
  * Rectangle 
  */
@@ -279,7 +281,7 @@ html, body {
   position: relative;
   padding: 0 30px 0 15px;
   height: 60px;
-  background-color: #004b91;
+  background-color: #b80202;
   z-index: 2;
 }
 
@@ -290,7 +292,7 @@ html, body {
   height: 100%;
   top: 0;
   right: 0;
-  background-color: #004b91;
+  background-color: #b80202;
 }
 
 .site-logo a {
@@ -306,7 +308,7 @@ html, body {
 
 /* Navigation */
 .site-navigation {
-  background-color: #196fc2;
+  background-color: #ff0b0b;
 }
 
 .site-navigation.affix {
@@ -425,7 +427,7 @@ html, body {
 /* HERO
 ================================================== */
 .hero {
-  background: url(../img/hero.jpg) center no-repeat;
+  background: url(../img/hero.jpeg) center no-repeat;
   height: 100%;
   width: 100%;
   display: table;
@@ -2045,7 +2047,7 @@ html, body {
 }
 
 .section-quote p span {
-  color: #196fc2;
+  color: #c21919;
 }
 
 /* Sections background: Me */
