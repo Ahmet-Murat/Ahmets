@@ -11523,6 +11523,8 @@ p {
 
 .btn-rounded {
   border-radius: 100px;
+  width: 40px;
+  height: 40px;
 }
 
 .service-card {
