@@ -11563,7 +11563,7 @@ p {
 
 .service-card {
   position: relative;
-  min-height: 500px;
+  min-height: 400px;
   border: 1px solid #dee2e6;
   overflow: hidden;
   border-radius: 3px;
