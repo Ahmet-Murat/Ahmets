@@ -2914,7 +2914,12 @@ textarea.form-control.is-invalid {
     margin-bottom: 0;
   }
 }
-
+.link{
+  position: absolute;
+  bottom: 56px;
+  right: 80px;
+  left: 80px;
+}
 .btn {
   display: inline-block;
   font-weight: 400;
@@ -11557,7 +11562,7 @@ p {
 
 .service-card {
   position: relative;
-  min-height: 200px;
+  min-height: 300px;
   border: 1px solid #dee2e6;
   overflow: hidden;
   border-radius: 3px;
